@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|e:\\software development allinone\\c#\\librarymanagsyst\\librarymanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|e:\\software development allinone\\c#\\librarymanagsyst\\librarymanagementsystem\\managemembersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|solutionrelative:managemembersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|e:\\software development allinone\\c#\\librarymanagsyst\\librarymanagementsystem\\manageitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|solutionrelative:manageitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|e:\\software development allinone\\c#\\librarymanagsyst\\librarymanagementsystem\\manageitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|solutionrelative:manageitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|e:\\software development allinone\\c#\\librarymanagsyst\\librarymanagementsystem\\managemembersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{323CAB89-AF09-40DD-ADA1-F3BE6CF65523}|LibraryManagementSystem.csproj|solutionrelative:managemembersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageItemsForm.cs",
+              "DocumentMoniker": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\ManageItemsForm.cs",
+              "RelativeDocumentMoniker": "ManageItemsForm.cs",
+              "ToolTip": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\ManageItemsForm.cs",
+              "RelativeToolTip": "ManageItemsForm.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAMwJ0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:53:04.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageItemsForm.cs [Design]",
+              "DocumentMoniker": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\ManageItemsForm.cs",
+              "RelativeDocumentMoniker": "ManageItemsForm.cs",
+              "ToolTip": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\ManageItemsForm.cs [Design]",
+              "RelativeToolTip": "ManageItemsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:34:06.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageMembersForm.cs [Design]",
+              "DocumentMoniker": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\ManageMembersForm.cs",
+              "RelativeDocumentMoniker": "ManageMembersForm.cs",
+              "ToolTip": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\ManageMembersForm.cs [Design]",
+              "RelativeToolTip": "ManageMembersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:12:41.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:36:15.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:36:05.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageMembersForm.cs",
+              "DocumentMoniker": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\ManageMembersForm.cs",
+              "RelativeDocumentMoniker": "ManageMembersForm.cs",
+              "ToolTip": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\ManageMembersForm.cs",
+              "RelativeToolTip": "ManageMembersForm.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAiwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:57:40.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
