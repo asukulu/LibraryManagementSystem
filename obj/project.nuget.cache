@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BaA/DPAE1os=",
+  "dgSpecHash": "xxrYbuA+Pgo=",
   "success": true,
-  "projectFilePath": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+  "projectFilePath": "E:\\Software Development AllInOne\\C#\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eugen\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\eugen\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

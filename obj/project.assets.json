@@ -1614,11 +1614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+      "projectUniqueName": "E:\\Software Development AllInOne\\C#\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
       "projectName": "LibraryManagementSystem",
-      "projectPath": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+      "projectPath": "E:\\Software Development AllInOne\\C#\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
       "packagesPath": "C:\\Users\\eugen\\.nuget\\packages\\",
-      "outputPath": "E:\\Software Development AllInOne\\C#\\LibraryManagSyst\\LibraryManagementSystem\\obj\\",
+      "outputPath": "E:\\Software Development AllInOne\\C#\\LibraryManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eugen\\AppData\\Roaming\\NuGet\\NuGet.Config",
