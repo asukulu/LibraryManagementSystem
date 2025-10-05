@@ -24,6 +24,8 @@ namespace LibraryManagementSystem
 
         }
 
+
+
         private void btnAddDVD_Click(object sender, EventArgs e)
         {
             try
@@ -123,6 +125,47 @@ namespace LibraryManagementSystem
             this.Close();
         }
 
+        // Hover effects for buttons
+
+        private void btnAddBook_MouseEnter(object sender, EventArgs e)
+        {
+            btnAddBook.BackColor = Color.FromArgb(5, 150, 105);
+        }
+
+        private void btnAddBook_MouseLeave(object sender, EventArgs e)
+        {
+            btnAddBook.BackColor = Color.FromArgb(16, 185, 129);
+        }
+
+        private void btnAddDVD_MouseEnter(object sender, EventArgs e)
+        {
+            btnAddDVD.BackColor = Color.FromArgb(234, 88, 12);
+        }
+
+        private void btnAddDVD_MouseLeave(object sender, EventArgs e)
+        {
+            btnAddDVD.BackColor = Color.FromArgb(251, 146, 60);
+        }
+
+        private void btnLoadItems_MouseEnter(object sender, EventArgs e)
+        {
+            btnLoadItems.BackColor = Color.FromArgb(79, 70, 229);
+        }
+
+        private void btnLoadItems_MouseLeave(object sender, EventArgs e)
+        {
+            btnLoadItems.BackColor = Color.FromArgb(99, 102, 241);
+        }
+
+        private void btnClose_MouseEnter(object sender, EventArgs e)
+        {
+            btnClose.BackColor = Color.FromArgb(220, 38, 38);
+        }
+
+        private void btnClose_MouseLeave(object sender, EventArgs e)
+        {
+            btnClose.BackColor = Color.FromArgb(239, 68, 68);
+        }
         private void btnAddBook_Click(object sender, EventArgs e)
         {
        
