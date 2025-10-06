@@ -369,10 +369,10 @@ namespace LibraryManagementSystem
 
         private void ManageMembersForm_Load(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
-        }
+           // throw new NotImplementedException();
+       }
 
-        // Add these hover effect methods
+        //Add these hover effect methods
 
         private void btnAddMember_MouseEnter(object sender, EventArgs e)
         {

@@ -60,7 +60,9 @@
             btnManageItems.TabIndex = 1;
             btnManageItems.Text = "📚 Manage Books & DVDs";
             btnManageItems.UseVisualStyleBackColor = false;
-            btnManageItems.Click += btnManageItems_MouseLeave;
+            btnManageItems.Click += btnManageItems_Click;
+            btnManageItems.MouseEnter += btnManageItems_MouseEnter;
+            btnManageItems.MouseLeave += btnManageItems_MouseLeave;
             // 
             // btnManagerMembers
             // 
@@ -77,7 +79,8 @@
             btnManagerMembers.Text = "👥 Manage Members & Transactions";
             btnManagerMembers.UseVisualStyleBackColor = false;
             btnManagerMembers.Click += btnManagerMembers_Click;
-            btnManagerMembers.MouseEnter += btnManagerMembers_Click;
+            btnManagerMembers.MouseEnter += btnManageMembers_MouseEnter;
+            btnManagerMembers.MouseLeave += btnManageMembers_MouseLeave;
             // 
             // btnExit
             // 
